@@ -1,1 +1,23 @@
+# FastAPI & Server
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+
+# Validation
+pydantic==2.9.0
+pydantic-settings==2.5.0
+
+# Redis
+redis==5.0.8
+
+# ML (add later)
 opencv-python
+# torch==2.4.0
+# ultralytics==8.2.0
+# transformers==4.44.0
+
+# Logging
+structlog==24.4.0
+
+# HTTP client
+httpx==0.27.2
